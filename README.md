@@ -1,5 +1,5 @@
-To Share & collaborate & simultaneously interaction & sharing reports, dashboards, files like pbix files, schemas, visuals etc for PowerBI platform. 
-Plan is to embed GQR Report/Dashboard within AlpineUI with help of API to show Part_Number historical selected filtered related results data
+* To Share & collaborate & simultaneously interaction & sharing reports, dashboards, files like pbix files, schemas, visuals etc for PowerBI platform. 
+* Plan is to embed GQR Report/Dashboard within AlpineUI with help of API to show Part_Number historical selected filtered related results data
 
 Link -> https://alpine-ui-web-stg.azurewebsites.us/quotes/169
 
