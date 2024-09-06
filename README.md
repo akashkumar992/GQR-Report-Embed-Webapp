@@ -1,6 +1,9 @@
 * To Share & collaborate & simultaneously interaction & sharing reports, dashboards, files like pbix files, schemas, visuals etc for PowerBI platform. 
 * Plan is to embed GQR Report/Dashboard within AlpineUI with help of API to show Part_Number historical selected filtered related results data
 
+* PowerBI ."pbix" file is in folder above
+* PowerBI sourcecode for running dashboard on localhost:5306 using nodejs server is also available above folder. 
+
 * Link -> https://alpine-ui-web-stg.azurewebsites.us/quotes/169
 
 * Below is PowerBI GQR Report/Dashboard output
