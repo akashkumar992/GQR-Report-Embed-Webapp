@@ -6,7 +6,7 @@
   * PowerBI sourcecode for running dashboard on localhost:5306 using nodejs server is also available above folder. 
 
 * Below is PowerBI GQR Report/Dashboard output with working link & snapshots too.
-Link -> https://alpine-ui-web-stg.azurewebsites.us/quotes/169
+* Link -> https://alpine-ui-web-stg.azurewebsites.us/quotes/169
 
 ![image](https://github.com/user-attachments/assets/45c1308b-e9f4-4f6a-9e64-a54d0d579970)
 
